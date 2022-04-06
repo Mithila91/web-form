@@ -1,5 +1,5 @@
 # web-form
-
+Web-form created for learning purposes using Vue 3
 ## Project setup
 ```
 npm install
